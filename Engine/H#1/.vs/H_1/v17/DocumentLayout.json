@@ -1,0 +1,202 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Pegasus\\Test-Dev-hub\\Engine\\H#1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C82FD44A-A4F2-010A-A93B-4AEFBEC4ADAE}|Assembly-CSharp.csproj|e:\\pegasus\\test-dev-hub\\engine\\h#1\\assets\\scripts\\core\\game manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C82FD44A-A4F2-010A-A93B-4AEFBEC4ADAE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\core\\game manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82FD44A-A4F2-010A-A93B-4AEFBEC4ADAE}|Assembly-CSharp.csproj|e:\\pegasus\\test-dev-hub\\engine\\h#1\\assets\\scripts\\core\\object pool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C82FD44A-A4F2-010A-A93B-4AEFBEC4ADAE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\core\\object pool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82FD44A-A4F2-010A-A93B-4AEFBEC4ADAE}|Assembly-CSharp.csproj|e:\\pegasus\\test-dev-hub\\engine\\h#1\\assets\\scripts\\ui\\ui manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C82FD44A-A4F2-010A-A93B-4AEFBEC4ADAE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\ui manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82FD44A-A4F2-010A-A93B-4AEFBEC4ADAE}|Assembly-CSharp.csproj|E:\\Pegasus\\Test-Dev-hub\\Engine\\H#1\\assets\\scripts\\player\\player controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C82FD44A-A4F2-010A-A93B-4AEFBEC4ADAE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\player controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82FD44A-A4F2-010A-A93B-4AEFBEC4ADAE}|Assembly-CSharp.csproj|e:\\pegasus\\test-dev-hub\\engine\\h#1\\assets\\scripts\\ui\\select weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C82FD44A-A4F2-010A-A93B-4AEFBEC4ADAE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\select weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82FD44A-A4F2-010A-A93B-4AEFBEC4ADAE}|Assembly-CSharp.csproj|e:\\pegasus\\test-dev-hub\\engine\\h#1\\assets\\scripts\\weapons\\thrownsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C82FD44A-A4F2-010A-A93B-4AEFBEC4ADAE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapons\\thrownsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82FD44A-A4F2-010A-A93B-4AEFBEC4ADAE}|Assembly-CSharp.csproj|E:\\Pegasus\\Test-Dev-hub\\Engine\\H#1\\assets\\scripts\\core\\custom input.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C82FD44A-A4F2-010A-A93B-4AEFBEC4ADAE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\core\\custom input.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82FD44A-A4F2-010A-A93B-4AEFBEC4ADAE}|Assembly-CSharp.csproj|E:\\Pegasus\\Test-Dev-hub\\Engine\\H#1\\assets\\scripts\\enemies\\enemies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C82FD44A-A4F2-010A-A93B-4AEFBEC4ADAE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies\\enemies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82FD44A-A4F2-010A-A93B-4AEFBEC4ADAE}|Assembly-CSharp.csproj|E:\\Pegasus\\Test-Dev-hub\\Engine\\H#1\\assets\\joystick pack\\examples\\joystickplayerexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C82FD44A-A4F2-010A-A93B-4AEFBEC4ADAE}|Assembly-CSharp.csproj|solutionrelative:assets\\joystick pack\\examples\\joystickplayerexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82FD44A-A4F2-010A-A93B-4AEFBEC4ADAE}|Assembly-CSharp.csproj|E:\\Pegasus\\Test-Dev-hub\\Engine\\H#1\\assets\\scripts\\enemies\\ai\\attackstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C82FD44A-A4F2-010A-A93B-4AEFBEC4ADAE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies\\ai\\attackstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82FD44A-A4F2-010A-A93B-4AEFBEC4ADAE}|Assembly-CSharp.csproj|E:\\Pegasus\\Test-Dev-hub\\Engine\\H#1\\assets\\scripts\\enemies\\ai\\idlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C82FD44A-A4F2-010A-A93B-4AEFBEC4ADAE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies\\ai\\idlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game Manager.cs",
+              "DocumentMoniker": "E:\\Pegasus\\Test-Dev-hub\\Engine\\H#1\\Assets\\Scripts\\Core\\Game Manager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Core\\Game Manager.cs",
+              "ToolTip": "E:\\Pegasus\\Test-Dev-hub\\Engine\\H#1\\Assets\\Scripts\\Core\\Game Manager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Core\\Game Manager.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAIA6wCQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T10:08:03.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Object Pool.cs",
+              "DocumentMoniker": "E:\\Pegasus\\Test-Dev-hub\\Engine\\H#1\\Assets\\Scripts\\Core\\Object Pool.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Core\\Object Pool.cs",
+              "ToolTip": "E:\\Pegasus\\Test-Dev-hub\\Engine\\H#1\\Assets\\Scripts\\Core\\Object Pool.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Core\\Object Pool.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T09:57:41.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UI Manager.cs",
+              "DocumentMoniker": "E:\\Pegasus\\Test-Dev-hub\\Engine\\H#1\\Assets\\Scripts\\UI\\UI Manager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\UI Manager.cs",
+              "ToolTip": "E:\\Pegasus\\Test-Dev-hub\\Engine\\H#1\\Assets\\Scripts\\UI\\UI Manager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\UI Manager.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAQwCoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T09:55:09.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Select Weapon.cs",
+              "DocumentMoniker": "E:\\Pegasus\\Test-Dev-hub\\Engine\\H#1\\Assets\\Scripts\\UI\\Select Weapon.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\Select Weapon.cs",
+              "ToolTip": "E:\\Pegasus\\Test-Dev-hub\\Engine\\H#1\\Assets\\Scripts\\UI\\Select Weapon.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\Select Weapon.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T09:51:10.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ThrownSystem.cs",
+              "DocumentMoniker": "E:\\Pegasus\\Test-Dev-hub\\Engine\\H#1\\Assets\\Scripts\\Weapons\\ThrownSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Weapons\\ThrownSystem.cs",
+              "ToolTip": "E:\\Pegasus\\Test-Dev-hub\\Engine\\H#1\\Assets\\Scripts\\Weapons\\ThrownSystem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Weapons\\ThrownSystem.cs",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAkwHQAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T09:18:12.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Custom Input.cs",
+              "DocumentMoniker": "E:\\Pegasus\\Test-Dev-hub\\Engine\\H#1\\Assets\\Scripts\\Core\\Custom Input.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Core\\Custom Input.cs",
+              "ToolTip": "E:\\Pegasus\\Test-Dev-hub\\Engine\\H#1\\Assets\\Scripts\\Core\\Custom Input.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Core\\Custom Input.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwBcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T08:35:26.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Player Controller.cs",
+              "DocumentMoniker": "E:\\Pegasus\\Test-Dev-hub\\Engine\\H#1\\Assets\\Scripts\\Player\\Player Controller.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Player Controller.cs",
+              "ToolTip": "E:\\Pegasus\\Test-Dev-hub\\Engine\\H#1\\Assets\\Scripts\\Player\\Player Controller.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\Player Controller.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAgwDYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T08:29:36.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "JoystickPlayerExample.cs",
+              "DocumentMoniker": "E:\\Pegasus\\Test-Dev-hub\\Engine\\H#1\\Assets\\Joystick Pack\\Examples\\JoystickPlayerExample.cs",
+              "RelativeDocumentMoniker": "Assets\\Joystick Pack\\Examples\\JoystickPlayerExample.cs",
+              "ToolTip": "E:\\Pegasus\\Test-Dev-hub\\Engine\\H#1\\Assets\\Joystick Pack\\Examples\\JoystickPlayerExample.cs",
+              "RelativeToolTip": "Assets\\Joystick Pack\\Examples\\JoystickPlayerExample.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T08:25:55.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IdleState.cs",
+              "DocumentMoniker": "E:\\Pegasus\\Test-Dev-hub\\Engine\\H#1\\Assets\\Scripts\\Enemies\\AI\\IdleState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\AI\\IdleState.cs",
+              "ToolTip": "E:\\Pegasus\\Test-Dev-hub\\Engine\\H#1\\Assets\\Scripts\\Enemies\\AI\\IdleState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemies\\AI\\IdleState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T07:46:10.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Enemies.cs",
+              "DocumentMoniker": "E:\\Pegasus\\Test-Dev-hub\\Engine\\H#1\\Assets\\Scripts\\Enemies\\Enemies.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\Enemies.cs",
+              "ToolTip": "E:\\Pegasus\\Test-Dev-hub\\Engine\\H#1\\Assets\\Scripts\\Enemies\\Enemies.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemies\\Enemies.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T07:42:57.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AttackState.cs",
+              "DocumentMoniker": "E:\\Pegasus\\Test-Dev-hub\\Engine\\H#1\\Assets\\Scripts\\Enemies\\AI\\AttackState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\AI\\AttackState.cs",
+              "ToolTip": "E:\\Pegasus\\Test-Dev-hub\\Engine\\H#1\\Assets\\Scripts\\Enemies\\AI\\AttackState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemies\\AI\\AttackState.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAwwBkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T07:36:15.46Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
